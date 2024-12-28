@@ -73,10 +73,13 @@ module ripple (
 endmodule
 ```
 **RTL LOGIC FOR 4 Bit Ripple Counter**
+
 ![Screenshot 2024-12-28 213530](https://github.com/user-attachments/assets/4c2426e4-87cf-43a6-9be7-cc62ce15a14b)
 
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
+
 ![Screenshot (152)](https://github.com/user-attachments/assets/5b44f768-3513-42df-8734-47e6c1efea0f)
 
 **RESULTS**
+
 Thus,the BIT-RIPPLE-COUNTER is verified sucessfully
